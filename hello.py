@@ -1,6 +1,6 @@
 '''Entry point if called as an executable'''
 def main():
-    '''Entry point if called as an executable'''
+    '''Hello world example'''
     msg = "Hello World".capitalize()
     print(msg)
 
